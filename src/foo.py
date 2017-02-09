@@ -8,5 +8,7 @@ def bar(a):
         return 4
     elif a == 3:
         return 6
+    elif a == 4:
+        return 8
     else:
         return 10
